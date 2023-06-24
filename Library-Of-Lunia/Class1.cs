@@ -1,4 +1,7 @@
-﻿namespace Library_Of_Lunia
+﻿using System;
+using UnityEngine;
+
+namespace Library_Of_Lunia
 {
     public class DiceCardAbility_New_Card : DiceCardAbilityBase
     {
