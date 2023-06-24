@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library-Of-Lunia", "Library-Of-Lunia\Library-Of-Lunia.csproj", "{A9122F1F-CB36-42FA-835F-CBE9DBD833C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9122F1F-CB36-42FA-835F-CBE9DBD833C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9122F1F-CB36-42FA-835F-CBE9DBD833C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9122F1F-CB36-42FA-835F-CBE9DBD833C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9122F1F-CB36-42FA-835F-CBE9DBD833C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9E1FA8-C174-4F78-BCAD-B2C085B5E5AF}
+	EndGlobalSection
+EndGlobal
